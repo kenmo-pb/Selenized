@@ -1,0 +1,90 @@
+; Selenized-White
+;   Color Theme for PureBasic IDE
+;
+;   Theme by Ethan Schoonover
+;     http://ethanschoonover.com/solarized/
+;   Adapted for PB by kenmo-pb
+
+[Sections]
+IncludeColors = 1
+
+[Colors]
+ASMKeywordColor = RGB(127, 81, 214)
+ASMKeywordColor_Used = 1
+BackgroundColor = RGB(255, 255, 255)
+BackgroundColor_Used = 1
+BasicKeywordColor = RGB(196, 151, 0)
+BasicKeywordColor_Used = 1
+CommentColor = RGB(135, 135, 135)
+CommentColor_Used = 1
+ConstantColor = RGB(208, 74, 0)
+ConstantColor_Used = 1
+LabelColor = RGB(221, 15, 157)
+LabelColor_Used = 1
+NormalTextColor = RGB(71, 71, 71)
+NormalTextColor_Used = 1
+NumberColor = RGB(0, 173, 156)
+NumberColor_Used = 1
+OperatorColor = RGB(71, 71, 71)
+OperatorColor_Used = 1
+PointerColor = RGB(40, 40, 40)
+PointerColor_Used = 1
+PureKeywordColor = RGB(0, 100, 228)
+PureKeywordColor_Used = 1
+SeparatorColor = RGB(71, 71, 71)
+SeparatorColor_Used = 1
+StringColor = RGB(0, 173, 156)
+StringColor_Used = 1
+StructureColor = RGB(71, 71, 71)
+StructureColor_Used = 1
+LineNumberColor = RGB(71, 71, 71)
+LineNumberColor_Used = 1
+LineNumberBackColor = RGB(235, 235, 235)
+LineNumberBackColor_Used = 1
+MarkerColor = RGB(71, 71, 71)
+MarkerColor_Used = 1
+CurrentLineColor = RGB(235, 235, 235)
+CurrentLineColor_Used = 1
+SelectionColor = RGB(40, 40, 40)
+SelectionColor_Used = 1
+SelectionFrontColor = RGB(135, 135, 135)
+SelectionFrontColor_Used = 1
+CursorColor = RGB(71, 71, 71)
+CursorColor_Used = 1
+Debugger_LineColor = RGB(235, 235, 235)
+Debugger_LineColor_Used = 1
+Debugger_LineSymbolColor = RGB(221, 15, 157)
+Debugger_LineSymbolColor_Used = 1
+Debugger_ErrorColor = RGB(235, 235, 235)
+Debugger_ErrorColor_Used = 1
+Debugger_ErrorSymbolColor = RGB(214, 0, 12)
+Debugger_ErrorSymbolColor_Used = 1
+Debugger_BreakPointColor = RGB(235, 235, 235)
+Debugger_BreakPointColor_Used = 1
+Debugger_BreakpoinSymbolColor = RGB(0, 100, 228)
+Debugger_BreakpoinSymbolColor_Used = 1
+DisabledBackColor = RGB(255, 255, 255)
+DisabledBackColor_Used = 1
+GoodBraceColor = RGB(40, 40, 40)
+GoodBraceColor_Used = 1
+BadBraceColor = RGB(214, 0, 12)
+BadBraceColor_Used = 1
+ProcedureBackColor = RGB(255, 255, 255)
+ProcedureBackColor_Used = 1
+CustomKeywordColor = RGB(71, 71, 71)
+CustomKeywordColor_Used = 1
+Debugger_WarningColor = RGB(235, 235, 235)
+Debugger_WarningColor_Used = 1
+Debugger_WarningSymbolColor = RGB(196, 151, 0)
+Debugger_WarningSymbolColor_Used = 1
+IndentColor = RGB(214, 0, 12)
+IndentColor_Used = 1
+ModuleColor = RGB(208, 74, 0)
+ModuleColor_Used = 1
+SelectionRepeatColor = RGB(235, 235, 235)
+SelectionRepeatColor_Used = 1
+PlainBackground = RGB(255, 255, 255)
+PlainBackground_Used = 1
+
+ToolsPanel_FrontColor = RGB(71, 71, 71)
+ToolsPanel_BackColor = RGB(255, 255, 255)

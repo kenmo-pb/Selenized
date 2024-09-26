@@ -1,0 +1,90 @@
+; {themeName}
+;   Color Theme for PureBasic IDE
+;
+;   Theme by Ethan Schoonover
+;     http://ethanschoonover.com/solarized/
+;   Adapted for PB by kenmo-pb
+
+[Sections]
+IncludeColors = 1
+
+[Colors]
+ASMKeywordColor = {violet}
+ASMKeywordColor_Used = 1
+BackgroundColor = {bg_0}
+BackgroundColor_Used = 1
+BasicKeywordColor = {yellow}
+BasicKeywordColor_Used = 1
+CommentColor = {dim_0}
+CommentColor_Used = 1
+ConstantColor = {orange}
+ConstantColor_Used = 1
+LabelColor = {magenta}
+LabelColor_Used = 1
+NormalTextColor = {fg_0}
+NormalTextColor_Used = 1
+NumberColor = {cyan}
+NumberColor_Used = 1
+OperatorColor = {fg_0}
+OperatorColor_Used = 1
+PointerColor = {fg_1}
+PointerColor_Used = 1
+PureKeywordColor = {blue}
+PureKeywordColor_Used = 1
+SeparatorColor = {fg_0}
+SeparatorColor_Used = 1
+StringColor = {cyan}
+StringColor_Used = 1
+StructureColor = {fg_0}
+StructureColor_Used = 1
+LineNumberColor = {fg_0}
+LineNumberColor_Used = 1
+LineNumberBackColor = {bg_1}
+LineNumberBackColor_Used = 1
+MarkerColor = {fg_0}
+MarkerColor_Used = 1
+CurrentLineColor = {bg_1}
+CurrentLineColor_Used = 1
+SelectionColor = {fg_1}
+SelectionColor_Used = 1
+SelectionFrontColor = {dim_0}
+SelectionFrontColor_Used = 1
+CursorColor = {fg_0}
+CursorColor_Used = 1
+Debugger_LineColor = {bg_1}
+Debugger_LineColor_Used = 1
+Debugger_LineSymbolColor = {magenta}
+Debugger_LineSymbolColor_Used = 1
+Debugger_ErrorColor = {bg_1}
+Debugger_ErrorColor_Used = 1
+Debugger_ErrorSymbolColor = {red}
+Debugger_ErrorSymbolColor_Used = 1
+Debugger_BreakPointColor = {bg_1}
+Debugger_BreakPointColor_Used = 1
+Debugger_BreakpoinSymbolColor = {blue}
+Debugger_BreakpoinSymbolColor_Used = 1
+DisabledBackColor = {bg_0}
+DisabledBackColor_Used = 1
+GoodBraceColor = {fg_1}
+GoodBraceColor_Used = 1
+BadBraceColor = {red}
+BadBraceColor_Used = 1
+ProcedureBackColor = {bg_0}
+ProcedureBackColor_Used = 1
+CustomKeywordColor = {fg_0}
+CustomKeywordColor_Used = 1
+Debugger_WarningColor = {bg_1}
+Debugger_WarningColor_Used = 1
+Debugger_WarningSymbolColor = {yellow}
+Debugger_WarningSymbolColor_Used = 1
+IndentColor = {red}
+IndentColor_Used = 1
+ModuleColor = {orange}
+ModuleColor_Used = 1
+SelectionRepeatColor = {bg_1}
+SelectionRepeatColor_Used = 1
+PlainBackground = {bg_0}
+PlainBackground_Used = 1
+
+ToolsPanel_FrontColor = {fg_0}
+ToolsPanel_BackColor = {bg_0}

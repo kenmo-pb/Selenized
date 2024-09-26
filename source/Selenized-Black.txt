@@ -1,0 +1,26 @@
+Color        CIE L*a*b*   HSB           sRGB      AppleRGB
+----------   ----------   -----------   -------   --------
+bg_0          8   0   0    35   0   9   #181818   #121212
+bg_1         15   0   0    35   0  15   #252525   #1c1c1c
+bg_2         25   0   0    35   0  23   #3b3b3b   #2d2d2d
+dim_0        50   0   0    35   0  47   #777777   #636363
+fg_0         75   0   0    35   0  72   #b9b9b9   #aaaaaa
+fg_1         88   0   0    35   0  87   #dedede   #d6d6d6
+
+red          56  63  40     1  70  93   #ed4a46   #e13136
+green        67 -38  55    92  72  71   #70b433   #64a81d
+yellow       75   6  68    46  79  86   #dbb32d   #d1a416
+blue         56   0 -57   212  77  92   #368aeb   #2d76e9
+magenta      64  55 -15   325  53  92   #eb6eb7   #de54ab
+cyan         72 -40  -4   174  68  77   #3fc5b7   #40bba8
+orange       64  37  50    22  71  90   #e67f43   #da6930
+violet       60  30 -45   263  43  88   #a580e2   #9169dd
+
+br_red       63  63  40     3  67 100   #ff5e56   #fb4343
+br_green     74 -38  55    92  65  78   #83c746   #77bd2d
+br_yellow    82   6  68    45  73  94   #efc541   #e9b928
+br_blue      63   0 -57   214  69 100   #4f9cfe   #4289ff
+br_magenta   71  55 -15   325  49 100   #ff81ca   #f767c0
+br_cyan      79 -40  -4   173  60  85   #56d8c9   #53d2bd
+br_orange    71  37  50    22  67  98   #fa9153   #f37b3f
+br_violet    67  30 -45   263  41  96   #b891f5   #a67bf5
